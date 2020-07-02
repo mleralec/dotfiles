@@ -1,0 +1,15 @@
+{
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.colorTheme": "Solarized Light",
+  "editor.fontSize": 14,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.editor.enablePreview": false,
+  "terminal.integrated.fontSize": 14,
+  "breadcrumbs.enabled": false,
+  "terminal.integrated.cursorStyle": "line",
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "window.zoomLevel": 0
+}

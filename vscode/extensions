@@ -1,0 +1,11 @@
+# code --list-extensions | xargs -L 1 echo code --install-extension
+
+code --install-extension aaron-bond.better-comments
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension dracula-theme.theme-dracula
+code --install-extension eamodio.gitlens
+code --install-extension esbenp.prettier-vscode
+code --install-extension jpoissonnier.vscode-styled-components
+code --install-extension mikestead.dotenv
+code --install-extension PKief.material-icon-theme
+code --install-extension silvenon.mdx
