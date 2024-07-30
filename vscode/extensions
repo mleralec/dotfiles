@@ -1,11 +1,23 @@
-# code --list-extensions | xargs -L 1 echo code --install-extension
+# code --list-extensions
 
-code --install-extension aaron-bond.better-comments
-code --install-extension dbaeumer.vscode-eslint
-code --install-extension dracula-theme.theme-dracula
-code --install-extension eamodio.gitlens
-code --install-extension esbenp.prettier-vscode
-code --install-extension jpoissonnier.vscode-styled-components
-code --install-extension mikestead.dotenv
-code --install-extension PKief.material-icon-theme
-code --install-extension silvenon.mdx
+aaron-bond.better-comments
+connor4312.esbuild-problem-matchers
+dbaeumer.vscode-eslint
+dracula-theme.theme-dracula
+eamodio.gitlens
+esbenp.prettier-vscode
+lokalise.i18n-ally
+mjmcloug.vscode-elixir
+ms-azuretools.vscode-docker
+ms-vscode-remote.remote-containers
+ms-vscode-remote.remote-ssh
+ms-vscode-remote.remote-ssh-edit
+ms-vscode.extension-test-runner
+ms-vscode.remote-explorer
+phoenixframework.phoenix
+pkief.material-icon-theme
+shopify.ruby-lsp
+styled-components.vscode-styled-components
+unifiedjs.vscode-mdx
+yoavbls.pretty-ts-errors
+yrm.type-challenges
